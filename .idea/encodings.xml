@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/58QingRen/0.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/1.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/2.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/3.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/4.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/5.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/6.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/7.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/8.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/9.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/58QingRen/getcode.bmp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/Cutter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/DECheckCode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/Filter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/My58Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/Tools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/h2o3/checkcode/test/_58QingRenTest.java" charset="UTF-8" />
+  </component>
+</project>
