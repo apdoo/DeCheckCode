@@ -4,7 +4,8 @@ import java.awt.image.BufferedImage;
 
 /**
  * 验证码识别
- * 
+ *
+ *
  * @author yuezhen
  * @version $Id: DECheckCode.java,v 0.1 2010-7-13 下午03:06:20 yuezhen Exp $
  */
